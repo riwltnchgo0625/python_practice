@@ -62,3 +62,9 @@ QA 직무 포트폴리오 증빙을 위해 실습 코드, 테스트 케이스, �
    ```bash
    git clone https://github.com/riwltnchgo0625/python_practice.git
    cd python_practice
+
+## 🍎bash 명령어
+python -m venv venv
+source venv/bin/activate   # (Windows: venv\Scripts\activate)
+pip install -r requirements.txt
+
